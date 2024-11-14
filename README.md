@@ -2,6 +2,8 @@ This is a WIP practice project. It does the job, but a few things are missing.
 
 Basically it simulates a Blackjack game against a dealer with various parameters that you can change and see how it affects the outcome.
 
+If you want to try it out: Start with the results_graphs.py where you'll set all the parameters and execute this script.
+
 **You can control:**
 - Number of game cycles
 - Initial bet
