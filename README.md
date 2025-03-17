@@ -4,6 +4,9 @@ Basically it simulates a Blackjack game against a dealer with various parameters
 
 If you want to try it out: Start with the results_graphs.py where you'll set all the parameters and execute this script.
 
+![alt text](https://github.com/I4mCh40s/BJ_strat/blob/main/Figure_1.png)
+![alt text](https://github.com/I4mCh40s/BJ_strat/blob/main/Снимок.PNG)
+
 **You can control:**
 - Number of game cycles
 - Initial bet
